@@ -229,6 +229,7 @@ public class AddressBookServiceTest {
 		// test that it is idempotent
 		//////////////////////////////////////////////////////////////////////
 
+
         //Check it is idempotent because the second update returns the same status
         Response newResponse = client
                 .target("http://localhost:8282/contacts/person/2")
