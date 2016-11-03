@@ -227,8 +227,14 @@ public class AddressBookServiceTest {
 		//////////////////////////////////////////////////////////////////////
 		// Verify that PUT /contacts/person/2 is well implemented by the service, i.e
 		// test that it is idempotent
-		//////////////////////////////////////////////////////////////////////	
-	
+		//////////////////////////////////////////////////////////////////////
+
+        //Check it is idempotent because the second update returns the same status
+        Response newResponse = client
+                .target("http://localhost:8282/contacts/person/2")
+                .request(MediaType.APPLICATION_JSON)
+                .put(Entity.entity(juan, MediaType.APPLICATION_JSON));
+        assertEquals(200, newResponse.getStatus());
 	}
 
 	@Test
