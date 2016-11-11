@@ -19,7 +19,7 @@ NIA    | User name | Repo | Build Status | Improvement | Score
 544393 | LAHOZ EGEA, CRISTINA
 622612 | MARTIN SEGURA, SERGIO
 681061 | MARTÍNEZ MENÉNDEZ, ALBERTO | [test repo](https://github.com/Belberus/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/Belberus/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/Belberus/lab3-restful-ws)
-576307 | MARTÍNEZ PÉREZ, ADRIAN
+576307 | MARTÍNEZ PÉREZ, ADRIAN | [test repo](https://github.com/Electryk/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/Electryk/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/Electryk/lab3-restful-ws)
 540891 | MENENDEZ MOYA, FRANCISCO
 680882 | MORENO JIMENO, RUBÉN | [test repo](https://github.com/nebur395/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/nebur395/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/nebur395/lab3-restful-ws)
 750849 | MOSQUERA ZAPATA, LUIS EDUARDO
