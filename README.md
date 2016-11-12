@@ -10,7 +10,7 @@ NIA    | User name | Repo | Build Status | Improvement | Score
 612595 | BELTRÁN PIÑOL, VÍCTOR | [test repo](https://github.com/Victorbp09/lab3-restful-ws/tree/test) | [![Build Status](https://api.travis-ci.org/Victorbp09/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/Victorbp09/lab3-restful-ws)
 683326 | BINTANED BASA, JESÚS | [test repo](https://github.com/jebiba95/lab3-restful-ws/tree/test) | [![Build Status](https://api.travis-ci.org/jebiba95/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/jebiba95/lab3-restful-ws)
 649003 | CAUDEVILLA CASAUS, JOSE ÁNGEL
-750846 | DAVID MOLINA, JOHN ALEXIS
+750846 | DAVID MOLINA, JOHN ALEXIS | [test repo](https://github.com/JohnD23/lab3-restful-ws/tree/test) | [![Build Status](https://api.travis-ci.org/JohnD23/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/JohnD23/lab3-restful-ws)
 529361 | DUMITRACHE , CATALIN  CONSTANTIN
 535621 | FRÍAS ZAPATER, MARTA ALMUDENA | [test repo](https://github.com/martafr/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/martafr/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/martafr/lab3-restful-ws)
 680258 | GARCIA DE QUIROS GIMENEZ, JORGE
