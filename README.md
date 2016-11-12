@@ -12,7 +12,7 @@ NIA    | User name | Repo | Build Status | Improvement | Score
 649003 | CAUDEVILLA CASAUS, JOSE ÁNGEL
 750846 | DAVID MOLINA, JOHN ALEXIS
 529361 | DUMITRACHE , CATALIN  CONSTANTIN
-535621 | FRÍAS ZAPATER, MARTA ALMUDENA
+535621 | FRÍAS ZAPATER, MARTA ALMUDENA | [test repo](https://github.com/martafr/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/martafr/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/martafr/lab3-restful-ws)
 680258 | GARCIA DE QUIROS GIMENEZ, JORGE
 680669 | GUIU PÉREZ, ALEJANDRO | [test repo](https://github.com/aguiu/lab3-restful-ws/tree/test) | [![Build Status](https://api.travis-ci.org/aguiu/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/aguiu/lab3-restful-ws)
 682531 | JUAN CIRIACO, ÁLVARO | [test repo] (https://github.com/aJuanCiri/lab3-restful-ws/tree/test) | [![Build Status](https://travis-ci.org/aJuanCiri/lab3-restful-ws.svg?branch=test)](https://travis-ci.org/aJuanCiri/lab3-restful-ws)
